@@ -21,4 +21,5 @@ Fortifyの設定を行い、提供されたBladeファイルを読み解いて�
 
 ## 動作確認
 
-（**どうやって動かして確認するかを記載してください**）
+http://localhost/register
+http://localhost/login
